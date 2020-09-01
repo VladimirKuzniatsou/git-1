@@ -2,3 +2,6 @@ tutu-ruru
 tutu-rur
 ruru-rur
 rerer-rer
+
+ter-tre
+tretre
